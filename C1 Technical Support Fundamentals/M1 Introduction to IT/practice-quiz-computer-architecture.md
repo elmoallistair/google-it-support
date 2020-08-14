@@ -1,7 +1,5 @@
 # Computer Architecture
 
-<br>
-
 ## Question 1
 
 What are the four layers of the computer architecture?

@@ -1,7 +1,5 @@
 # Course Quiz
 
-<br>
-
 ## From Abacus to Analytical Engine
 
 What cards had holes in them that were historically used to store data?

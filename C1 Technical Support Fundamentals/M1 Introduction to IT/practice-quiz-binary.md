@@ -1,7 +1,5 @@
 # Binary
 
-<br>
-
 ## Question 1
 
 Which of these is a valid byte? Check all that apply.
