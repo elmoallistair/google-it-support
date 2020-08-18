@@ -11,3 +11,10 @@ By the end of this course, you’ll be able to:
 * understand what the Internet is, how it works, and the impact it has in the modern world
 * learn how applications are created and how they work under the hood of a computer
 * utilize common problem-solving methodologies and soft skills in an Information Technology setting
+
+## Skills you will gain
+
+* Binary Code
+* Customer Support
+* Linux
+* Troubleshooting
