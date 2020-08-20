@@ -50,7 +50,29 @@ fiber cables use **pulses of light** to represent the zeros and one of the data 
 * **Simplex communication**: This process is unidirectional.
 * **Full duplex**: Devices on either side of a networking link can both communicate with each other at the exact same time.
 
-
 ## The Data Link Layer
 
-* 
+* The protocol most widely used to send data across individual links is known as **Ethernet**.
+* **Ethernet** and the **data link** layer provide a means for software at higher levels of the stack to send and receive data. 
+* If two computers were to send data across the wire at the same time, this would result in literal collisions of the electrical current representing our ones and zeros, leaving the end result unintelligible. 
+* Ethernet as a protocol solved this problem by using a technique known as carrier sense multiple access with collision detection.
+* **CSMA/CD**: Used to determine when the communications channel are clear, and when a device is free to transmit data.
+* **MAC address**: A global unique identifier attached to an individual network interface. It's a 48-bit number normally represented by six groupings of two hexadecimal numbers.
+* **Hexadecimal**: A way to represent number using 16 digits.
+* **Octet**: In computer networking, any number that can be represented by 8 bits.
+* Organizationally Unique Identifier (OUI): The first three octets of a MAC address.
+* If the least significant bit in the first octet of a destination address is set to **zero**, it means that ethernet frame is intended for **only the destination address**.
+* IF the least significant bit in the first octet of a destination address is set to **one**, it means you're dealing with a **multicast frame**.
+* **Data packet**: An all-encompassing term that represents any single set of binary data being sent across a network link.
+* Data packets at the Ethernet level are known as **Ethernet frames**.
+* **Ethernet frame**: A highly structured collection of information presented in a specific order.
+* The first part of an Ethernet frame is known as the **preamble**. A preamble is 8 bytes or 64 bits long and can itself be split into two sections. 
+* **Start frame delimiter (SFD)**: Signals to a receiving device that the preamble is over and that the actual frame contents will now follow.
+* **Destination MAC address**: The hardware address of the intended recipient.
+* **EtherType field**: 16 bits long and used to describe the protocol of the contents of the frame.
+* **VLAN header**: Indicates that the frame itself is what's called VLAN frame
+* If a VLAN header is present, the EtherType field follows it.
+* **Virtual LAN (VLAN)**: A technique that lets you have multiple logical LANs operating on the same physical equipment.
+* **Frame Check Sequence**: A 4-byte (or 32-bit) number that represents a checksum value for the entire frame.
+* **Checksum value** is calculated by performing what's known as a cyclical redundancy check against the frame.
+* **Cyclical Redudancy Check (CRC)**: An important concept for data integrity and is used all over computing, not just network transmissions.

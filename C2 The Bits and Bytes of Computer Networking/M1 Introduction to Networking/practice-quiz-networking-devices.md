@@ -24,10 +24,9 @@ What does LAN stand for?
 
 What's a router?
 
-A network device used specially for fiber cables
-A more advanced version of a switch
-**A device that knows how to forward data between independent networks**
-A physical layer device that prevents crosstalk
-Correct
+* A network device used specially for fiber cables
+* A more advanced version of a switch
+* **A device that knows how to forward data between independent networks**
+* A physical layer device that prevents crosstalk
 
 > A router connects independent networks by forwarding data between them.
