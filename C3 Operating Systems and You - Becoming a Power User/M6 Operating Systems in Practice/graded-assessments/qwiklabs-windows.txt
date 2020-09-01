@@ -1,0 +1,5 @@
+1. Delete ultra_mega_large (9.38 GB) file, use search feature
+2. Delete corrupted file in C:/Users/Documents
+3. Update VLC, download installer: https://www.youtube.com/redirect?v=mvbc8UlvCaA&redir_token=QUFFLUhqazBDNFhBQ2VReWplSHZMbjN5a2ZZRVBNRVlCUXxBQ3Jtc0trSmlFSVpWUk5VUFVPaG4tN2x6cXctVkVEUFVQS25ZakYzVGhVeTRuZnd2QWNzM1FqRXJ3QnMyZDlpSzBLRldhM2x5bERfM2hNTW9hM3N1UWtzT3NxZTZVeUx3aDBuSlRrc1UyOTVPcXVLdm91azlDOA%3D%3D&q=https%3A%2F%2Fwww.videolan.org%2Fvlc%2Fdownload-windows.html&event=video_description, install and choose update
+4. End malicious processes, go to task manager, search for "totaly_not_malicious", end task
+5. Fix Permissions , go to C:\Users\Temp, open super_secret_file's properties, check write's box permission
