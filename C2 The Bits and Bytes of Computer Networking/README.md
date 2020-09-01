@@ -1,4 +1,4 @@
-# The Bits and Bytes of Computer Networking
+# [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking/)
 
 ## About this Course
 
