@@ -1,4 +1,4 @@
-# Technical Support Fundamentals
+# [Technical Support Fundamentals](https://www.coursera.org/learn/technical-support-fundamentals/)
 
 ## About this Course
 
