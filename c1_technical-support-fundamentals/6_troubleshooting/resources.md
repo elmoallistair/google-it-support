@@ -1,0 +1,7 @@
+## Resources
+
+<br>
+
+* [Resume Example 1_Google IT Support.pdf](https://d3c33hcgiwev3.cloudfront.net/Wq_49IADQrKv-PSAAyKySg_5b6029aa3cd94c36b6be61f775f78477_Resume-Example-1_Google-IT-Support.pdf?Expires=1597881600&Signature=MgGpdrgcdAjZrjEDoVh5Ef-ENskHiKF3JvrAjsZmn2WtrMOQ01lONtRd3bdOZtcpiM-t1iDRD6E94VpIz2WIUufw5Uv7txNUMBL1-2Jefw~-nvKFpX3JDweBFH9RWStBovp-7Sk7x9STX0GUkQwJiQYaagQfyypbWqICpcpwH0w_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+* [Resume Example 2_Google IT Support.pdf](https://d3c33hcgiwev3.cloudfront.net/QkoWidoNQ2aKFonaDcNmyA_834dd92a40464a87a5c52c14a0944334_Resume-Example-2_Google-IT-Support.pdf?Expires=1597881600&Signature=S6~8IC0UcKh3xUR2ISp5jgFFI0~hmICTcboTraS6FFBBzzqD-0nTakgafyrxudLJHIYoVhZ7PmrELTVL-ps7Msqa-38rSlzWQiMFYFfkXczIa5PT7vWM7v6tORBOePmPxMBy~LuriS73SzZU3hZRiG3V1bOY0WgNO2A4~bG~iXg_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+* [Resume Example 3_Google IT Support.pdf](https://d3c33hcgiwev3.cloudfront.net/i1TzQIl3SuaU80CJd9rmqQ_6a076e336e39414ab9f8720ab0c78d49_Resume-Example-3_Google-IT-Support-1-.pdf?Expires=1597881600&Signature=H1Fvo3nx8NGzui33mur2iK7wXiUgD8moRv6o7FzWRhvnAEzEDnJm1JqvJanD27msJo0AHCw0zjZAZqfrrqpDSsa0WfRIyVTp0F-xmGlANCAHC2~LnXZdALadmnkzS5FpX7qoyp3sZ6BjxD7WP71T7TPA6obo3EctGn~2wVhrW34_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
