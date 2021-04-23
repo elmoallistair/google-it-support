@@ -87,7 +87,7 @@ A network admin wants to use a Remote Authentication Dial-In User Service (RADIU
 
 * Active Directory
 * LDAP
-* Flat file
+* **Flat file** [Correct]
 * **SQL database** [INCORRECT]
 
 <br>
