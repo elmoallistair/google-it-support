@@ -6,9 +6,9 @@
 
 If you were investigating login issues on a Windows computer, which portion of the Event Viewer logs would be a good place to start your investigation?
 
-* **System**
+* System
 * Application and Services
-* Security
+* **Security**
 
 > The Security log would be a good place to start when troubleshooting login issues.
 
