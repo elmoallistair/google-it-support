@@ -20,11 +20,11 @@ What is Active Directory? Check all that apply.
 How is an Organizational Unit different from a normal container?
 
 * It's not; it's just a different name for a container x
-* **It can hold other objects**
+* It can hold other objects
 * It can only hold other containers
-* It can hold additional containers
+* **It can hold additional containers**
 
-> An Organizational Unit is a special type of container that can hold other containers.
+> An Organizational Unit is a special type of container that can hold other containers and ordinary objects.
 
 <br>
 
