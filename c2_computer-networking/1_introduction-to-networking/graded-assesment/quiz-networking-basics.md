@@ -1,6 +1,6 @@
 ## Networking Basics
 
-Latest Submission Grade: **87.5%**
+Latest Submission Grade: **93.7%**
 
 <br>
 
@@ -24,7 +24,7 @@ MAC address stands for ____ address.
 * **media access control**
 * message authentication check
 * maximum allowable cost
-* memory access controller 
+* memory access controller
 
 > A MAC address is sometimes also referred to as a hardware address.
 
@@ -50,7 +50,7 @@ When an electrical pulse on one wire is accidentally detected on another nearby 
 * duplex communication
 * preamble
 * **cross talk**
-* multicast 
+* multicast
 
 > Crosstalk is reduced by the way that wires are twisted inside of a cable.
 
@@ -73,10 +73,12 @@ UDP stands for ______.
 
 What layer in the Transmission Control Protocol/Internet Protocol (TCP/IP) model does IP use?
 
-* Network
+* **Network**
 * Transport
-* **Data link** [INCORRECT]
-* Physical 
+* Data link
+* Physical
+
+> The network layer is also sometimes called the internet layer.  The most common protocol used at this layer is Internet Protocol (IP).
 
 <br>
 
@@ -87,7 +89,7 @@ Which layer in the Transmission Control Protocol/Internet Protocol (TCP/IP) mode
 * Data link
 * Application
 * **Network**
-* Transport 
+* Transport
 
 > The network layer is responsible for sending data between two nodes. The transport layer sorts out which client and server programs are supposed to get the data.
 
@@ -100,7 +102,7 @@ What type of cable communicates binary data by changing the voltage between two 
 * Silver
 * Gold
 * **Copper**
-* Fiber 
+* Fiber
 
 > Copper cables communicate binary data across wires by changing the voltage between two ranges.
 
@@ -113,7 +115,7 @@ You have installed a device at the physical layer. All of the systems you connec
 * Server
 * Router
 * **Hub**
-* Switch 
+* Switch
 
 > A hub is a physical layer device that allows for connections from many computers at once.
 
@@ -126,7 +128,7 @@ You open a web page and log into your email. The traffic travels over many route
 * Transmission Control Protocol (TCP)
 * Internet Protocol (IP)
 * **Border Gateway Protocol (BGP)**
-* User Datagram Protocol (UDP) 
+* User Datagram Protocol (UDP)
 
 > Border Gateway Protocol (BGP) lets routers learn about the most optimal paths to forward traffic.
 
@@ -139,7 +141,7 @@ How many wires are in a standard Category 6 cable?
 * **8**
 * 10
 * 4
-* 6 
+* 6
 
 > A standard Cat6 cable has 8 wires that consist of four twisted pairs inside of a single jacket.
 
@@ -152,7 +154,7 @@ What is the most common plug used with twisted pair network cables?
 * Registered Jack 35
 * **Registered Jack 45**
 * Registered Jack 46
-* Registered Jack 11 
+* Registered Jack 11
 
 > Registered Jack 45 is the most common plug used in computer networking.
 
@@ -165,7 +167,7 @@ What is used to determine when the communications channels are clear and when a 
 * Internet Protocol (IP)
 * **Carrier Sense Multiple Access with Collision Detection (CSMA/CD)**
 * Ethernet
-* Transmission Control Protocol (TCP) 
+* Transmission Control Protocol (TCP)
 
 > Carrier Sense Multiple Access with Collision Detection (CSMA/CD) is used to determine when the communications channels are clear and when a device is free to transmit data.
 
@@ -191,7 +193,7 @@ What immediately follows the Start Frame Delimiter in an ethernet frame?
 * **Destination Media Access Control (MAC) address**
 * Frame Check Sequence
 * Payload
-* EtherType field 
+* EtherType field
 
 > The destination MAC address immediately follows the Start Frame Delimiter.
 
@@ -204,4 +206,4 @@ Where is the Start Frame Delimiter (SFD) found in an ethernet frame?
 * **The first byte of the EtherType field** [INCORRECT]
 * The last byte of the preamble
 * The last byte of the EtherType field
-* The first byte of the preamble 
+* The first byte of the preamble
