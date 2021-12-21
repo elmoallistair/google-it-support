@@ -1,5 +1,7 @@
 ## Networking Basics
 
+Latest Submission Grade: **93.7%**
+
 <br>
 
 ## Question 1
