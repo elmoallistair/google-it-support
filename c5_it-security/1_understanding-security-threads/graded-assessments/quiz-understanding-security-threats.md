@@ -1,5 +1,5 @@
 ## Understanding Security Threats
-**Latest Submission Grade: 84.61%**
+**Latest Submission Grade: 92.30%**
 
 <br>
 
