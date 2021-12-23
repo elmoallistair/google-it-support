@@ -20,8 +20,8 @@ A network-based attack where one attacking machine overwhelms a target with traf
 
 When cleaning up a system after a compromise, you should look closely for any ______ that may have been installed by the attacker.
 
-* Poisoned DNS caches [INCORRECT]
-* Backdoors
+* Poisoned DNS caches
+* **Backdoors**
 * Rogue APs
 * Injection attacks 
 
@@ -31,10 +31,10 @@ When cleaning up a system after a compromise, you should look closely for any __
 
 A(n) _____ attack is meant to prevent legitimate traffic from reaching a service.
 
-* Denial of Service
+* **Denial of Service**
 * Injection
 * Password
-* DNS Cache poisoning [INCORRECT]
+* DNS Cache poisoning
 
 <br>
 
