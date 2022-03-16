@@ -158,10 +158,10 @@ Select the right order of enforcement of GPOs:
 
 What can we use to determine what policies will be applied for a given machine?
 
-* gpupdate [INCORRECT]
-* A control panel [INCORRECT]
+* gpupdate 
+* A control panel
 * A test domain
-* An RSOP report
+* **An RSOP report**
 
 <br>
 
