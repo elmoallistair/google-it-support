@@ -149,9 +149,9 @@ Connection-oriented protocols protect against dropped data by forming connection
 
 In which scenario should you use the User Datagram Protocol (UDP)?
 
-* **When you are using instant messaging with a co-worker** [INCORRECT]
+* When you are using instant messaging with a co-worker 
 * When you are sending an email
-* When you are streaming a video
+* **When you are streaming a video**
 * When you make a phone call 
 
 <br>
