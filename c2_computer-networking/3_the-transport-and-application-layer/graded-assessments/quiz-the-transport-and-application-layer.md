@@ -125,10 +125,12 @@ Which field in a Transmission Control Protocol (TCP) header is not typically use
 
 The checksum doesn't compute for a packet sent at the Internet Protocol (IP) level. What will happen to the data?
 
-* **The data will be sent back to the sending node with an error.** [INCORRECT]
-* The data will be discarded.
+* The data will be sent back to the sending node with an error.
+* **The data will be discarded.**
 * The data will be resent.
 * It will be sent, but may be out of order. 
+
+> At the IP or ethernet level, if a checksum doesn't compute, all of the data is just discarded.  It's up to TCP to determine when to resend this data.
 
 <br>
 
@@ -153,6 +155,8 @@ In which scenario should you use the User Datagram Protocol (UDP)?
 * When you are sending an email
 * **When you are streaming a video**
 * When you make a phone call 
+
+>  Streaming a video through a connectionless protocol, such as UDP, will require less traffic, which will provide a faster connection.
 
 <br>
 
