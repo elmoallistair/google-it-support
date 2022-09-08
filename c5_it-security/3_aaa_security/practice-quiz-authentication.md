@@ -132,9 +132,9 @@ True or false: Clients authenticate directly against the RADIUS server.
 
 What does a Kerberos authentication server issue to a client that successfully authenticates?
 
-* A ticket-granting ticket
+* **A ticket-granting ticket**
 * A master password
-* An encryption key [INCORRECT]
+* An encryption key
 * A digital certificate
 
 <br>
