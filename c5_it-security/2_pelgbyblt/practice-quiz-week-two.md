@@ -110,8 +110,8 @@ To create a public key signature, you would use the ______ key.
 
 * Decryption
 * Symmetric
-* Private
-* Public [INCORRECT]
+* **Private**
+* Public
 
 <br>
 
