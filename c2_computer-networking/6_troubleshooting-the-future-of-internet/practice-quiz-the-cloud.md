@@ -38,3 +38,25 @@ A hybrid cloud is ________________.
 * a combination of a private cloud and a mesh network
 
 > A hybrid cloud runs some services on a cloud provider and some services in-house.
+
+### Question 4
+
+Which of the following are additional cloud services? Select all that apply.
+
+* **Blockchain as a Service (BAAS)**
+* Python as a Service
+* **VPN as a Service (VPNaaS)**
+* **Data as a Service**
+
+> BaaS uses encrypted, connected blocks of information for higher security than standard cloud services. VPNaaS secures networks through a cloud-based connection between the employee and the organization’s network. DaaS provides data access as a service to a business.
+
+### Question 5
+
+Which cloud service provides access to things like virtual machines, containers, networks, and storage?
+
+* FaaS
+* IaaS
+* Saas
+* Paas
+
+> Infrastructure as a Service (IaaS) provides access to things like virtual machines, containers, networks, and storage.
