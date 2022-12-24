@@ -52,6 +52,8 @@ Which of the following commands displays the current network configuration infor
 
 > ipconfig displays the network configuration information. 
 
+<br />
+
 ### Question 5
 
 An organization responsible for assigning individual domain names to other organizations or individuals is known as a(n) ______.
