@@ -38,3 +38,27 @@ The organization responsible for DNS at a global level is ________.
 * IANA
 
 > ICANN is responsible for DNS at a global level.
+
+<br />
+
+### Question 4
+
+Which of the following commands displays the current network configuration information?
+
+* Net user
+* Pathping
+* **Ipconfig**
+* Winver
+
+> ipconfig displays the network configuration information. 
+
+### Question 5
+
+An organization responsible for assigning individual domain names to other organizations or individuals is known as a(n) ______.
+
+* Internet authority
+* **DNS registrar**
+* Government
+* Autonomous system
+
+> You can use a registrar to register a domain name!
