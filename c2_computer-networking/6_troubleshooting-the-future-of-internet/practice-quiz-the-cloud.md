@@ -39,6 +39,8 @@ A hybrid cloud is ________________.
 
 > A hybrid cloud runs some services on a cloud provider and some services in-house.
 
+<br />
+
 ### Question 4
 
 Which of the following are additional cloud services? Select all that apply.
@@ -50,12 +52,14 @@ Which of the following are additional cloud services? Select all that apply.
 
 > BaaS uses encrypted, connected blocks of information for higher security than standard cloud services. VPNaaS secures networks through a cloud-based connection between the employee and the organization’s network. DaaS provides data access as a service to a business.
 
+<br />
+
 ### Question 5
 
 Which cloud service provides access to things like virtual machines, containers, networks, and storage?
 
 * FaaS
-* IaaS
+* **IaaS**
 * Saas
 * Paas
 
