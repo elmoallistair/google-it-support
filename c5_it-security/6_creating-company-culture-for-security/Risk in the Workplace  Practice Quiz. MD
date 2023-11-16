@@ -1,0 +1,56 @@
+### Question 1
+
+### What are some examples of security goals that you may have for an organization? Check all that apply. 
+
+To deploy an Intrusion Prevention System
+This should not be selected
+Not quite. Using an IPS is a tool used to help achieve the security goal, but deploying a defensive measure isn't itself a goal.
+##To protect customer data from unauthorized access##
+Great job! These are super important goals. Safeguards or systems should be implemented to help achieve them. It's important to distinguish between a discrete goal and the mechanisms or defense systems that help you to achieve these goals. Defenses on their own aren't goals, but they allow us to work towards these goals.
+To implement a strong password policy 
+##To prevent unauthorized access to customer credentials##
+Correct
+Great job! These are super important goals. Safeguards or systems should be implemented to help achieve them. It's important to distinguish between a discrete goal and the mechanisms or defense systems that help you to achieve these goals. Defenses on their own aren't goals, but they allow us to work towards these goals.
+
+### Question 2
+Which of these would you consider high-value targets for a potential attacker? Check all that apply. 
+
+##Logging server##
+##Customer credit card information##
+That's right! Customer credit card data is really valuable to attackers, since it can be a hot commodity in the shadier areas of the internet. The same goes for authentication databases, since this could provide attackers with usernames and passwords that might give them access to accounts on other websites and services.
+Networked printers 
+Authentication databases 
+Correct
+>That's right! Customer credit card data is really valuable to attackers, since it can be a hot commodity in the shadier areas of the internet. The same goes for authentication databases, since this could provide attackers with usernames and passwords that might give them access to accounts on other websites and services.
+
+### Question 3
+What's the purpose of a vulnerability scanner? 
+
+It fixes vulnerabilities on systems. 
+It protects your network from malware. 
+It blocks malicious traffic from entering your network.
+##It detects vulnerabilities on your network and systems.##
+Correct
+>Correct! A vulnerability scanner will scan and evaluate hosts on your network. It does this by looking for misconfigurations or vulnerabilities, then compiling a report with what it found.
+
+### Question 4
+What are some restrictions that should apply to sensitive and confidential data? Check all that apply. 
+
+It can be accessed and stored on personal devices. 
+Not quite. Personal devices wouldn't be managed or monitored by your organization, so you wouldn't be able to determine the security of these devices. 
+It can be stored on encrypted media only. 
+It can be stored on removable media. 
+It can be transferred via email.
+
+<coursera test quiz is wrong all the above are correct>
+
+
+### Question 5
+What's a privacy policy designed to guard against? 
+
+Denial-of-service attacks 
+Eavesdropping on communications 
+##Misuse or abuse of sensitive data##
+Attackers stealing customer data 
+Correct
+Yep! Privacy policies are meant to govern the access and use of sensitive data for authorized parties.
