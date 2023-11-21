@@ -15,7 +15,7 @@ Click the binary bits necessary to compute the decimal value on the right column
 ### Some usefull script
 
 ```
->>> decimals = [82,117,66,55,102,51,84,62,5,57] # change value
+>>> decimals = [53,19,74,8,67,75,66,33,56,112] # change value
 >>> for num in decimals:
 ...     print(f"{num}: {format(num, '08b')}")
 ... 
