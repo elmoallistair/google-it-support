@@ -110,10 +110,12 @@ A point-to-point virtual private network (VPN) utilizes this type of device at e
 
 In which wireless configuration type do nodes communicate directly with each other, rather than with an access point?
 
-* Ad-hoc
+* **Ad-hoc**
 * Mesh network
 * 2.4Ghz
-* **802.11b** [INCORRECT]
+* 802.11b
+
+> In an ad-hoc network, there isn't any supporting network infrastructure.
 
 <br>
 
@@ -160,10 +162,12 @@ Which connection technology uses what is known as a CMTS?
 
 Which solution eliminates the need for dedicated high-speed WAN connections between sites?
 
-* **T-carrier technology** [INCORRECT]
+* T-carrier technology
 * Asynchronous Transfer Mode (ATM)
-* Point-to-point VPN
+* **Point-to-point VPN**
 * Cable broadband 
+
+> A popular alternative to WAN technologies are point to point VPNS. Lots of businesses no longer require extreme, high-speed connections between their sites. This makes the expense of a WAN technology unnecessary. Instead, companies can use point-to-point VPNS to make sure that their different sites can still communicate with each other.
 
 <br>
 
@@ -185,9 +189,11 @@ Cellular network towers are configured in such a way so that they avoid what typ
 Television broadcasts were originally delivered by using which technology?
 
 * Ethernet
-* Wireless
+* **Wireless**
 * Broadband
-* **Coaxial cable** [INCORRECT] 
+* Coaxial cable
+
+ > Originally, all television broadcasts were wireless transmissions sent out by giant television towers and received by smaller antennas in people's homes.
 
 <br>
 
